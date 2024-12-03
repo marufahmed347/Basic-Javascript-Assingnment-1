@@ -1,4 +1,4 @@
-//  Write a function to count the number of vowels in a string. The function should take a single argument, which is the string to search.
+// Write a function to count the number of vowels in a string. The function should take a single argument, which is the string to search.
 
 /*
 

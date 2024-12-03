@@ -1,4 +1,4 @@
-//  Write a function to sum two numbers. The function should take two arguments, which are the numbers to sum.
+// Write a function to sum two numbers. The function should take two arguments, which are the numbers to sum.
 
 /*
 

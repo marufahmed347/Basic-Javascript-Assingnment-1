@@ -1,4 +1,4 @@
-//  Write a function to merge two arrays. The function should take two arguments, which are the arrays to merge.
+// Write a function to merge two arrays. The function should take two arguments, which are the arrays to merge.
 
 /*
 

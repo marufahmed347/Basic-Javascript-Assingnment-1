@@ -1,4 +1,4 @@
-//  Write a function to convert Celsius to Fahrenheit. The function should take a single argument, which is the temperature in Celsius.
+// Write a function to convert Celsius to Fahrenheit. The function should take a single argument, which is the temperature in Celsius.
 
 /*
 

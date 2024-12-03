@@ -1,4 +1,4 @@
-//  Write a function to find the sum of all elements in an array. The function should take a single argument, which is the array.
+// Write a function to find the sum of all elements in an array. The function should take a single argument, which is the array.
 
 /*
 

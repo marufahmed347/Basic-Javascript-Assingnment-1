@@ -1,4 +1,4 @@
-//  Write a function to return the factorial of a number. The function should take a single argument, which is the number.
+// Write a function to return the factorial of a number. The function should take a single argument, which is the number.
 
 /*
 

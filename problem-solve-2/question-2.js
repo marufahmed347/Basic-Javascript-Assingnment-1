@@ -1,4 +1,4 @@
-//  Write a function to check if a number is even. The function should take a single argument, which is the number to check.
+// Write a function to check if a number is even. The function should take a single argument, which is the number to check.
 
 /*
 

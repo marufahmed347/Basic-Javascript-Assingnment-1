@@ -1,4 +1,4 @@
-//  1. Write a function to find the smallest number in an array. The function should take a single argument, which is the array to search.
+// Write a function to find the smallest number in an array. The function should take a single argument, which is the array to search.
 
 /*
 

@@ -1,4 +1,4 @@
-//  Write a function to get the last element of an array. The function should take a single argument, which is the array.
+// Write a function to get the last element of an array. The function should take a single argument, which is the array.
 
 /*
 

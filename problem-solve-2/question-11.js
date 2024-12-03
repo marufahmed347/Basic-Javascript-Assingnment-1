@@ -1,4 +1,4 @@
-//  Write a function to find the length of a string. The function should take a single argument, which is the string.
+// Write a function to find the length of a string. The function should take a single argument, which is the string.
 
 /*
 
